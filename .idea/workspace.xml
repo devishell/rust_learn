@@ -1,5 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated />
   </component>
@@ -55,7 +73,25 @@
     <configuration />
   </component>
   <component name="TaskManager">
+    <task id="LOCAL-00001" summary="安装学习链接">
+      <created>1604288943146</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1604288943146</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -70,12 +106,30 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="安装学习链接" />
+    <option name="LAST_COMMIT_MESSAGE" value="安装学习链接" />
   </component>
   <component name="WindowStateProjectService">
     <state x="341" y="285" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604285834771">
       <screen x="0" y="23" width="1642" height="1027" />
     </state>
     <state x="341" y="285" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1642.1027@0.23.1642.1027" timestamp="1604285834771" />
+    <state width="1369" height="251" key="GridCell.Tab.0.bottom" timestamp="1604289138215">
+      <screen x="0" y="23" width="1642" height="1027" />
+    </state>
+    <state width="1369" height="251" key="GridCell.Tab.0.bottom/0.23.1642.1027@0.23.1642.1027" timestamp="1604289138215" />
+    <state width="1369" height="251" key="GridCell.Tab.0.center" timestamp="1604289138214">
+      <screen x="0" y="23" width="1642" height="1027" />
+    </state>
+    <state width="1369" height="251" key="GridCell.Tab.0.center/0.23.1642.1027@0.23.1642.1027" timestamp="1604289138214" />
+    <state width="1369" height="251" key="GridCell.Tab.0.left" timestamp="1604289138214">
+      <screen x="0" y="23" width="1642" height="1027" />
+    </state>
+    <state width="1369" height="251" key="GridCell.Tab.0.left/0.23.1642.1027@0.23.1642.1027" timestamp="1604289138214" />
+    <state width="1369" height="251" key="GridCell.Tab.0.right" timestamp="1604289138215">
+      <screen x="0" y="23" width="1642" height="1027" />
+    </state>
+    <state width="1369" height="251" key="GridCell.Tab.0.right/0.23.1642.1027@0.23.1642.1027" timestamp="1604289138215" />
     <state x="668" y="487" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604288911968">
       <screen x="0" y="23" width="1642" height="1027" />
     </state>
